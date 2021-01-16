@@ -112,7 +112,7 @@ button {
 }
 
 /* === hidden title - main page === */
-.hidden-title-1 {
+.hidden-title {
   position: absolute;
   clip: rect(0 0 0 0);
   width: 1px;
@@ -181,15 +181,6 @@ and
 }
 
 /* === portfolio.html === */
-/* === hidden title portfolio.html === */
-.hidden-title-2 {
-  position: absolute;
-  clip: rect(0 0 0 0);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-}
-
 .buttons {
   font-family: inherit;
   font-weight: 500;
